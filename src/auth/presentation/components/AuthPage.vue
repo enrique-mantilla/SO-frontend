@@ -2,7 +2,7 @@
   <div class="auth-page">
     <div class="auth-card">
       <div class="auth-header">
-        <h1>RedSocial</h1>
+        <h1>CoolBox live</h1>
         <p>Comparte lo que piensas</p>
       </div>
       <div v-if="error" class="error">{{ error }}</div>

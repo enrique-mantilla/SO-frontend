@@ -2,7 +2,7 @@
   <div class="home">
     <header class="topbar">
       <div class="topbar-inner">
-        <h1 class="logo">RedSocial</h1>
+        <h1 class="logo">CoolBox live</h1>
         <div class="user-badge">
           <span class="avatar">{{ authStore.user?.usuario?.charAt(0).toUpperCase() }}</span>
           <span>@{{ authStore.user?.usuario }}</span>

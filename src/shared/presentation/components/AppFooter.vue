@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p>&copy; 2026 RedSocial</p>
+    <p>&copy; 2026 CoolBox live</p>
   </footer>
 </template>
 
